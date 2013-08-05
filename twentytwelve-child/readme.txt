@@ -1,4 +1,4 @@
-The files contained in these directories are the work of the Pollak Library at California State University, Fullerton.
+A forked repo of my custom work for the Pollak Library, part of an online portfolio of my work.
 
 ***** ABOUT THIS SOURCE CODE *****
 
